@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">biggobutton</string>
+    <string name="Button">Push Me!</string>
+    <string name="buttonPress">You have pushed me %1$d %2$s!</string>
 </resources>
